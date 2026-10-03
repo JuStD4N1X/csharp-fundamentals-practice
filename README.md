@@ -14,6 +14,6 @@ A hands-on collection of small C# console applications created while learning pr
 - **IDE**: Visual Studio
 
 ## 📁 Projects Included
-- **String Validator**: Nested verification logic handling dynamic inputs.
+- **Password Validator**: Nested verification logic handling dynamic inputs.
 - **Array / List Operations**: Methods calculating sum, handling dynamically resized bounds, and LINQ basics.
 - **Data Modeling**: Basic entity representation using custom `struct` types.
