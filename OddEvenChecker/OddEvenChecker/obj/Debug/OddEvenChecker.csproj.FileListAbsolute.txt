@@ -1,0 +1,7 @@
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.exe.config
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.exe
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\bin\Debug\OddEvenChecker.pdb
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.exe
+C:\Users\Komputer\Desktop\C#Exercises\OddEvenChecker\OddEvenChecker\obj\Debug\OddEvenChecker.pdb

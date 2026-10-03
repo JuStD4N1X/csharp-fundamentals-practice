@@ -1,0 +1,7 @@
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe.config
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.exe
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\bin\Debug\ArrayOfMultiples.pdb
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.exe
+C:\Users\Komputer\Desktop\C#Exercises\ArrayOfMultiples\ArrayOfMultiples\obj\Debug\ArrayOfMultiples.pdb

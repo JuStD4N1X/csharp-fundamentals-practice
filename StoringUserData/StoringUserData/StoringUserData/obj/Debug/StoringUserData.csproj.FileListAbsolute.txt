@@ -1,0 +1,7 @@
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\bin\Debug\StoringUserData.exe.config
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\bin\Debug\StoringUserData.exe
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\bin\Debug\StoringUserData.pdb
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\obj\Debug\StoringUserData.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\obj\Debug\StoringUserData.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\obj\Debug\StoringUserData.exe
+C:\Users\Komputer\Desktop\C#Exercises\StoringUserData\StoringUserData\StoringUserData\obj\Debug\StoringUserData.pdb

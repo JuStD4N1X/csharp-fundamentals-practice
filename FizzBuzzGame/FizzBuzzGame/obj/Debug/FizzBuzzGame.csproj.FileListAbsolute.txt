@@ -1,0 +1,7 @@
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe.config
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.pdb
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.exe
+C:\Users\Komputer\Desktop\C#Exercises\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.pdb
