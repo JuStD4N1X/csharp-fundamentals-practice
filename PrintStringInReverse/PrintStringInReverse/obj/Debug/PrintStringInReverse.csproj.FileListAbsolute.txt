@@ -1,7 +1,0 @@
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\bin\Debug\PrintStringInReverse.exe.config
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\bin\Debug\PrintStringInReverse.exe
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\bin\Debug\PrintStringInReverse.pdb
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\obj\Debug\PrintStringInReverse.csproj.AssemblyReference.cache
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\obj\Debug\PrintStringInReverse.csproj.CoreCompileInputs.cache
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\obj\Debug\PrintStringInReverse.exe
-C:\Users\Komputer\Desktop\C#Exercises\PrintStringInReverse\PrintStringInReverse\obj\Debug\PrintStringInReverse.pdb

@@ -1,7 +1,0 @@
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.AssemblyReference.cache
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.CoreCompileInputs.cache
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
-C:\Users\Komputer\Desktop\C#Exercises\AreaOfTriangle\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb
